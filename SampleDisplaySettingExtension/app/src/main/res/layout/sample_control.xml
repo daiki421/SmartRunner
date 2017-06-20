@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/smarteyeglass_control_width"
+    android:layout_height="@dimen/smarteyeglass_control_height"
+    tools:ignore="ContentDescription" >
+
+    <TextView
+        android:id="@+id/gps_text"
+        android:layout_width="@dimen/smarteyeglass_control_width"
+        android:layout_height="@dimen/smarteyeglass_control_height"
+        android:gravity="center|center_horizontal"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        android:layout_weight="1"
+        android:text="Measuring..."/>
+
+</RelativeLayout>

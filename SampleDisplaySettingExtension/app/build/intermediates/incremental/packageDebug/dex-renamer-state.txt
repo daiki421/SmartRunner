@@ -1,0 +1,7 @@
+#Fri Jun 09 20:01:19 JST 2017
+base.0=/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6d9b3b47891a489bacbca1209455fab67699855
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1a9c4bfd9b26f0f39f7b7aa90d04b8cff812529b/classes.dex
+base.1=/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1a9c4bfd9b26f0f39f7b7aa90d04b8cff812529b
+file.0=/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6d9b3b47891a489bacbca1209455fab67699855/classes.dex

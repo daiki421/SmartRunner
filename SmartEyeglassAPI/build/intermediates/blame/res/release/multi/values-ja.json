@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            }
+        ]
+    }
+]

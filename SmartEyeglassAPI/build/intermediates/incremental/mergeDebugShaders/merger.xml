@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/src/debug/shaders"/></dataSet></merger>

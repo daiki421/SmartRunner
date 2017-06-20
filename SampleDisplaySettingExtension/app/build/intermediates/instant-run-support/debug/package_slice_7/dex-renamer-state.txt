@@ -1,0 +1,4 @@
+#Thu Jun 08 18:47:51 JST 2017
+base.0=/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

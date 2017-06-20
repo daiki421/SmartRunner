@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/daiki/.android/build-cache/f233e1f679b25105ef540c0de124a2d5930f02e5/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

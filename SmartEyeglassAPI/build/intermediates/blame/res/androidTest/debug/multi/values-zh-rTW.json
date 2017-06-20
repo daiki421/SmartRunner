@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 59,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 59,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 58,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 58,
+                        "endOffset": 222
+                    }
+                }
+            }
+        ]
+    }
+]

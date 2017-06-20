@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/res/merged/release/layout/smart_watch_widget.xml",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/src/main/res/layout/smart_watch_widget.xml"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/res/merged/release/layout/smart_watch_notification_widget.xml",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/src/main/res/layout/smart_watch_notification_widget.xml"
+    }
+]

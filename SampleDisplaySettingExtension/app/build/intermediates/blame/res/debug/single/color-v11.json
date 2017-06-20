@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/daiki/.android/build-cache/c50abbca120edc2409c455bd453f28c6371157d5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SampleDisplaySettingExtension/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/daiki/.android/build-cache/c50abbca120edc2409c455bd453f28c6371157d5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

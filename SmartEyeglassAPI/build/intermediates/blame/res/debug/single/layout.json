@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/debug/layout/smarteyeglass_widgetcard.xml",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/src/main/res/layout/smarteyeglass_widgetcard.xml"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/debug/layout/smart_watch_widget.xml",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/layout/smart_watch_widget.xml"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/debug/layout/smart_watch_notification_widget.xml",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/layout/smart_watch_notification_widget.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/androidTest/debug/drawable/headset_pro_ok_icn.png",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/drawable/headset_pro_ok_icn.png"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/androidTest/debug/drawable/headset_pro_cancel_icn.png",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/drawable/headset_pro_cancel_icn.png"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/androidTest/debug/drawable/widget_frame.png",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/drawable/widget_frame.png"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/androidTest/debug/drawable/badge_counter.png",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/drawable/badge_counter.png"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/androidTest/debug/drawable/headset_pro_focus_xs_icn.png",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/drawable/headset_pro_focus_xs_icn.png"
+    },
+    {
+        "merged": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartEyeglassAPI/build/intermediates/res/merged/androidTest/debug/drawable/text_bg.png",
+        "source": "/Users/daiki/Documents/sony_smarteyeglass_sdk/samples/SmartExtensionUtils/build/intermediates/bundles/default/res/drawable/text_bg.png"
+    }
+]
